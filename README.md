@@ -1,5 +1,5 @@
 # DNA-Toolkit
-DNA Toolkit taught by rebelCoder on Youtube:
+DNA Toolkit taught by rebelCoder on YouTube:
  - Part 1: Validating and Counting Nucleotides
  - Part 2: Transcription, Reverse Complement
  - Part 3: GC Content Calculation
